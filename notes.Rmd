@@ -62,3 +62,15 @@ description: "This is a series of notes for the students of
 		- Statistics Forum
 	+ Time (lecture, study, and research)
 1. A case study: ABO blood type and COVID-19
+
+
+# 03/27
+
+1. Examples of topic presentations
+    + Styles/Formats
+	+ Code for reproducibility
+	+ Topics (Tom Kennen; Yishu Xue; Yiming Zhang)
+1. Data sources
+1. Logistics
+    + Teams and proposals
+	+ Coaches
