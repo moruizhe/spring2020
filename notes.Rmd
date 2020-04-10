@@ -75,6 +75,7 @@ description: "This is a series of notes for the students of
     + Teams and proposals
 	+ Coaches
 
+
 # 04/03
 
 1. Reproducibility (use relative path; etc.)
@@ -91,9 +92,18 @@ description: "This is a series of notes for the students of
 
 # 04/10
 
-1. Logistics:
-    + Confirm with your team coach
-	+ Communicate through "Issues" on GitHub or direct commits.
-	+ Review/search the literature
-1. Interim project report due on Friday 05/22.
-1. Final presentation order
+1. Logistics
+    + Interim report is due on Friday, May 22
+	+ Confirm that your team has a coach
+	+ Use "Issues" on GitHub to communicate
+	+ Search/review the literature, always
+	+ The final presentation order is to be determined at random
+1. Guidelines for future presentations
+    + The presentations are reproducible from the repo sources
+	+ Full screen
+	+ Use the presentation output format for RMD sources
+	+ Check your audio volume
+	+ Keep it strictly within 30 minutes
+	+ Watch your style (e.g., gamma in text mode and math mode are
+      different notations)
+	+ Learn from each other --- the repos are all public
