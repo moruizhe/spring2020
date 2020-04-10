@@ -74,3 +74,26 @@ description: "This is a series of notes for the students of
 1. Logistics
     + Teams and proposals
 	+ Coaches
+
+# 04/03
+
+1. Reproducibility (use relative path; etc.)
+1. Tidyness (spacing; indentation; generated files; folders)
+1. Git style: commit often; informative message
+1. RMarkdown style:
+    + keep the code clean and human-eye friendly
+    + Use presentation style for presentations
+1. Writing: 
+    + Credit where it is due
+	+ Back you what you say with citations
+	+ Clarify your contribution in position of the existing literature
+
+
+# 04/10
+
+1. Logistics:
+    + Confirm with your team coach
+	+ Communicate through "Issues" on GitHub or direct commits.
+	+ Review/search the literature
+1. Interim project report due on Friday 05/22.
+1. Final presentation order
